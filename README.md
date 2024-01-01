@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"/>
 <p align="left"> <a href="https://twitter.com/shahzaib_i86311" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaib_i86311?logo=twitter&style=for-the-badge" alt="shahzaib_i86311" /></a> </p>
 
-- 🔭 I’m currently working on [SSL Trainings](https://ssltraining.com/)
+- 🔭 I’m currently working on website [SSL Trainings](https://ssltraining.com/)
 
 - 🌱 I’m currently learning **Cloud Computing and cloud resource managment**
 
-- 👯 I’m looking to collaborate on [Demsteam](https://www.demsteam.com/)
+- 👯 I’m currently working on website [Demsteam](https://www.demsteam.com/)
 
 - 👨‍💻 All of my projects are available at [https://shahdev.netlify.app/](https://shahdev.netlify.app/)
 
