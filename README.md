@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shahzaibimran219@gmail.com**
 
-- ⚡ Fun fact **I'm more creative at work**
+- ⚡ Fun fact **I'm more creative at work!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
