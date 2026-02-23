@@ -6,7 +6,8 @@
 
 
 - 👨‍💻 All of my projects are available at [https://shahdev.netlify.app/](https://shahdev.netlify.app/)
-
+= LinkedIn: https://www.linkedin.com/in/shahzaib-imran-2002y/
+- Freelancer: https://www.freelancer.com/u/shahzaibimran219
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, Prisma ORM, Postgres DB, Frontend/Backend/APIs related queires, and any general questions.**
 
 - 📫 How to reach me **shahzaibimran219@gmail.com**
