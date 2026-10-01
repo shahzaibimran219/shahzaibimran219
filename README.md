@@ -6,8 +6,9 @@
 
 
 - 👨‍💻 All of my projects are available at:
-   https://shahdev.netlify.app/   &     https://www.devonicsolution.com/portfolio 
-= LinkedIn: https://www.linkedin.com/in/shahzaib-imran-2002y/
+   https://shahdev.netlify.app/   &     https://www.devonicsolution.com/portfolio
+  
+- LinkedIn: https://www.linkedin.com/in/shahzaib-imran-2002y/
 - Freelancer: https://www.freelancer.com/u/shahzaibimran219
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, Prisma ORM, Postgres DB, Frontend/Backend/APIs related queires, and any general questions.**
 
