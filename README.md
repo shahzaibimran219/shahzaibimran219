@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/shahzaib_i86311" target="blank"><img src="https://img.shields.io/twitter/follow/shahzaib_i86311?logo=twitter&style=for-the-badge" alt="shahzaib_i86311" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://shahdev.netlify.app/] (https://shahdev.netlify.app/) [https://www.devonicsolution.com/portfolio](https://www.devonicsolution.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://shahdev.netlify.app/,https://www.devonicsolution.com/portfolio] (https://shahdev.netlify.app/, https://www.devonicsolution.com/portfolio) 
 = LinkedIn: https://www.linkedin.com/in/shahzaib-imran-2002y/
 - Freelancer: https://www.freelancer.com/u/shahzaibimran219
 - 💬 Ask me about **JavaScript, React, Nextjs, Node.js, Prisma ORM, Postgres DB, Frontend/Backend/APIs related queires, and any general questions.**
